@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rehan-sattar/rehan-sattar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on JavaScript
@@ -20,4 +17,3 @@ Stack:
 - JavaScript / React / Vue/ Node / Express / Typescript
 - React Native / Flutter
 - MongoDB / SQL 
--->
