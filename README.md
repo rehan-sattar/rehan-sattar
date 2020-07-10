@@ -14,6 +14,6 @@ A Full Stack Software Engineer who’s passionate about solving problems and cre
 
 ### Stack:
 - HTML / CSS / SASS
-- JavaScript / React / Vue/ Node / Express / Typescript
+- JavaScript / React / Next / Vue / Node / Express / Typescript
 - React Native / Flutter
 - MongoDB / SQL 
