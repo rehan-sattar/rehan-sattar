@@ -15,3 +15,5 @@ A Full Stack Software Engineer who’s passionate about solving problems and cre
 - JavaScript / React / Next / Vue / Node / Express / Typescript
 - React Native / Flutter
 - MongoDB / SQL 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rehan-sattar&count_private=true&theme=radical)
