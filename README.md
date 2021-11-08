@@ -1,5 +1,4 @@
 <h1 align="center">Hi , I'm Rehan Sattar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<hr/>
 <h4 align="center">A Full Stack Software Engineer who’s passionate about creating Fullstack web applications and content that can be of value to others. Highly passionate about System Design, Architecture and Clean Code. Besides juggling work, content creation and other commitments, I can be found traveling to contemplate the meaning of life under the stars ✨
 </h4>
 <br>
