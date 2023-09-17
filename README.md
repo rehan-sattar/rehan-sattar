@@ -6,7 +6,7 @@ Rehan Sattar</a>  👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehan-sattar&label=Profile%20views&color=0e75b6&style=flat" alt="rehan-sattar" /> </p>
 
 
-- 🔭 I’m currently working as Remote Senior Backend Engineer at Wimoku, USA. 
+- 🔭 I’m currently working as a Remote Senior Backend Engineer. 
 
 - 🌱 I’m currently Working on NestJS with Microservices Architecture.
   
