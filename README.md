@@ -6,11 +6,11 @@ Rehan Sattar</a>  👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehan-sattar&label=Profile%20views&color=0e75b6&style=flat" alt="rehan-sattar" /> </p>
 
 
-- 🔭 I’m currently working as a Remote Senior Backend Engineer. 
+- 🔭 I’m currently working as a Senior Fullstack Engineer.
 
-- 🌱 I’m currently Working on NestJS with Microservices Architecture.
+- 🌱 I’m currently Working on NestJS with Microservices Architecture & Microfrontends.
   
-- 🌱 I’m currently learning Go, Docker, Backend Engineering Essentials & Architecture.
+- 🌱 I’m currently learning Backend Engineering Essentials & Architecture.
 
 - 📝 I write articles on [Rehan Sattar - Hashnode](https://rehansattar.dev/)
 
