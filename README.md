@@ -1,16 +1,16 @@
 <h1 align="center">Helllooo!   I'm <a href="https://rehansattar.dev/" target="blank">
 Rehan Sattar</a>  👋</h1> 
-<p align="center">A Senior Software Engineer, specializing in Full Stack & Product Mindset Engineering, with over 5 years of experience. I'm passionate about technology and its potential to shape the future. I'm excited to use my skills to create innovative solutions and drive sustainable change. Connect with me to discuss how I can help you or your organization! </p>
+<p align="center">A Senior Software Engineer, specializing in Full Stack & Product Mindset Engineering, with over <b>6 years of experience</b>. I'm passionate about technology and its potential to shape the future. I'm excited to use my skills to create innovative solutions and drive sustainable change. Connect with me to discuss how I can help you or your organization! </p>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehan-sattar&label=Profile%20views&color=0e75b6&style=flat" alt="rehan-sattar" /> </p>
 
 
-- 🔭 I’m currently working as a Senior Fullstack Engineer.
+- 🔭 I’m currently looking for Senior Fullstack Engineer roles.
 
 - 🌱 I’m currently Working on NestJS with Microservices Architecture & Microfrontends.
   
-- 🌱 I’m currently learning Backend Engineering Essentials & Architecture.
+- 🌱 I’m currently learning Scalable Backend Engineering & Architecture.
 
 - 📝 I write articles on [Rehan Sattar - Hashnode](https://rehansattar.dev/)
 
