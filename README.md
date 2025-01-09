@@ -19,7 +19,7 @@ Rehan Sattar</a>  👋</h1>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
-  <a href="https://rehansattar.now.sh/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Personal Blog"/></a>
+  
 	<a href="mailto:rehansattar117@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/rehan-sattar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/rehan-sattar/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
